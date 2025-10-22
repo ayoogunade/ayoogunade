@@ -3,7 +3,6 @@
 💼 Former SWE Intern @ GRANTED  
 🏆 1st Place Winner @ CoHack 2025  
 🎧 Music Enthusiast  
-🕺 Wannabe Dancer  
 
 # 🌐 Portfolio  
 👉 [Visit my portfolio](https://ayoogunade.github.io/#)
