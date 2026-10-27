@@ -1,119 +1,51 @@
-# 👋 Hi, I'm Ayo 🚀
-🐺 CS Student at University of Saskatchewan  
-💼 Former SWE Intern @ GRANTED  
-🏆 1st Place Winner @ CoHack 2025  
-🎧 Music Enthusiast  
+# Ayo Ogunade
 
-# 🌐 Portfolio  
-👉 [Visit my portfolio](https://ayoogunade.github.io/#)
+Third-year Honours Computer Science (Software Engineering) student at the University of Saskatchewan, and co-founder and CEO of [CalenDue](https://www.calendue.ca). I build full-stack apps for the people around me, from my church to my bus stop.
 
-# 🌍 Socials  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mrfreshafrican20) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoogunade) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayotundeogunade13@gmail.com) 
+**Open to Summer 2027 software engineering internships.**
 
-# 💻 Tech Stack
-**Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-2456D6?style=flat)](https://ayoogunade.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayoogunade)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayotundeogunade13@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/mrfreshafrican20)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+## Now building
 
-**Backend & Tools:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### [CalenDue](https://www.calendue.ca)
+An AI academic calendar, live on the web, the App Store and Google Play, used by 150+ students. It started as a first-place win at CoHack 2025, a 27-hour hackathon, and is now a startup with a team of four.
 
-**AI/ML:**  
-![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=langchain&logoColor=white)
+- Syllabus extraction pipeline for PDF, DOCX, pasted text and exam-schedule tables, with prompt-hash caching
+- Callie, a course assistant built on RAG: pgvector search with keyword re-ranking, kept separate per course
+- Google Calendar (OAuth2), Apple Calendar (CalDAV) and Canvas LMS sync, with deduplication
 
-# 🧠 Featured Projects
+`Next.js` `TypeScript` `Supabase` `Prisma` `Expo` `LangChain`
 
-### 🏆 [CalenDue](https://www.calendue.ca) - 1st Place @ CoHack 2025
-**Stack:** Next.js 15, TypeScript, Claude Sonnet 4, LangChain, Tailwind CSS, FullCalendar  
-AI-powered academic calendar platform that transforms syllabus documents into integrated calendars in under 30 seconds.
-- **95% parsing success rate** with three-tier error recovery system
-- **Triple calendar integration:** Google Calendar, Apple Calendar, and Canvas LMS
-- **Custom RAG chatbot** for natural language syllabus queries
-- **Real-time bidirectional sync:** Changes in CalenDue sync to your calendar and vice versa
-- Reduced semester setup time from 2-4 hours to 30 seconds
+### Other recent work
 
-### 💼 AI Blogging Platform @ GRANTED (Summer 2025 Internship)
-**Stack:** Next.js, React, PostgreSQL, Prisma ORM, NextAuth, Docker  
-Production-ready AI-integrated blogging platform for enterprise use.
-- **40% reduction** in editorial workflow time through intuitive UI/UX design
-- **30% decrease** in failed user verifications via robust authentication system
-- Built with Agile methodologies and modern DevOps practices
+| Project | What it does | Built with |
+|---|---|---|
+| [AgriLink](https://agrilink-zeta.vercel.app) | Marketplace where Nigerian farmers sell produce straight to buyers. Paystack payments are held until delivery is confirmed. Web and mobile. | Next.js, Expo, Supabase, Paystack |
+| [StudyMax](https://github.com/Calendue/StudyMax) | Hackathon build: reads your transcript and maps the fastest path through your degree, with Max, an AI advisor that can call you. | React, TypeScript, Prisma, Capacitor, Vapi |
+| [PraiseCount](https://praisecount.vercel.app) | Check-in for my church: recognises returning phones, checks in whole households, tracks attendance streaks. | Next.js, PostgreSQL, Prisma, Clerk |
+| BetterTransit | Live Saskatoon transit on the city's GTFS-realtime feeds, with a trip planner that accounts for delays and cancellations. | Node.js, Leaflet, Web Push |
+| [KW2D](https://kw2d.vercel.app) | Storefront for an independent clothing brand, moved off Shopify to a custom site. | Next.js, Supabase, Stripe |
+| [CSSS Email Sender](https://github.com/ayoogunade/CSSS_Email_Sender) | Sends the student society's event emails to every CS professor: 51 minutes of work down to 4. | Python, AppleScript, Windows COM |
 
-### 📝 [ResumA.I](https://github.com/ayoogunade/ResumAI)
-**Stack:** Next.js, Tailwind CSS, MongoDB, Google Gemini  
-AI-powered resume optimization platform with intelligent content suggestions.
-- **65% reduction** in manual editing time through component-driven design
-- **40% API performance improvement** (1.2s → 700ms) via optimization and caching
-- Custom prompt engineering for context-aware resume feedback
+Earlier: [ResumA.I](https://github.com/ayoogunade/ResumA.I) (resume tailoring with Gemini), [AyoZon](https://github.com/ayoogunade/AyoZon) (e-commerce on Flask microservices), [Collab Text Editor](https://github.com/ayoogunade/CollabTextEditor) (real-time editing over WebSockets), [Trip-path Animator](https://github.com/ayoogunade/PathAnimator) (animated GPS routes in Java).
 
-### 🛒 [AyoZon](https://github.com/ayoogunade/AyoZon)
-**Stack:** Next.js, Tailwind CSS, Python, Flask, MongoDB  
-Full-stack e-commerce platform with microservices architecture.
-- Serving **1,000+ users** with React frontend and Flask backend
-- RESTful API with comprehensive CRUD operations
-- SQL/NoSQL database integration
+## Experience
 
-### 🎵 [AyoTalksMusic](https://ayotalksmusic.com/)
-My personal music review site logging every album I've reviewed — searchable, stylish, and updated regularly.
+- **Co-founder and CEO**, CalenDue (September 2025 – present)
+- **Software Engineering Intern**, GRANTED (June – August 2025): AI blogging platform in Next.js, PostgreSQL and Prisma
+- **Database Project Coordinator**, University of Oklahoma (September 2023 – May 2024)
+- **Event Director**, Computer Science Student Society (2025–26)
 
-### ✍️ [Collab Text Editor](https://github.com/ayoogunade/Collab-Editor-Project)
-Real-time collaborative text editor built with React & WebSocket, hosted on Render.
+## Tools
 
-### 📍 [Trip-path Animator](https://github.com/ayoogunade/PathAnimator)
-GPS path animation tool with customizable GUI that plots, animates, and visualizes routes from CSV data.
+- **Languages:** TypeScript, JavaScript, Python, SQL, Java, C, C++
+- **Web and mobile:** Next.js, React, Tailwind CSS, Expo / React Native, Capacitor
+- **Back end and data:** Node.js, Express, Flask, PostgreSQL, Prisma, Supabase, MongoDB
+- **AI:** Claude API, Claude Code, Google Gemini, RAG with pgvector, LangChain
+- **Shipping:** Git, Docker, Vercel, EAS
 
-# 💼 Experience
-- **Software Engineering Intern** @ GRANTED (June – August 2025)
-- **Database Project Coordinator** @ University of Oklahoma (Sept 2023 – May 2024)
-
-# 📚 Currently Learning
-- Advanced Next.js patterns and server components
-- AI/ML integration with LangChain and RAG systems
-- System design and scalable architecture
-- LeetCode grind for technical interviews
-
-# 🎯 Goals for 2026
-- ✅ ~~Land a summer internship~~ (Completed @ GRANTED!)
-- ✅ ~~Win a hackathon~~ (1st Place @ CoHack 2025!)
-- 🔄 Secure 2026 summer internship opportunities
-- 🔄 Hit 200+ LeetCode problems
-- 🚀 Deploy CalenDue to production and reach 1,000+ users
-- 🚀 Contribute to open-source AI/EdTech projects
-
-# 🏆 Achievements
-- 🥇 1st Place Winner - CoHack 2025 (27-hour hackathon)
-- 💼 Completed SWE Internship @ GRANTED
-- 🎓 Optimized volunteer engagement for 5,000+ users @ OU
-
----
-
-💡 **Open to 2026 Summer Internship Opportunities** | Full Stack Development | AI/ML Engineering | Software Engineering
-
-📫 **Let's Connect:** [LinkedIn](https://linkedin.com/in/ayoogunade) | [Email](mailto:ayotundeogunade13@gmail.com) | [Portfolio](https://ayoogunade.github.io/#)
+Away from a keyboard I'm reviewing albums, gaming or watching something.
