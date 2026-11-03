@@ -27,7 +27,7 @@
 
 <a href="https://www.calendue.ca"><img src="assets/calendue.webp" alt="CalenDue's home screen on a laptop and its events list on a phone" width="100%"></a>
 
-An AI academic calendar, live on the web, the App Store and Google Play, and used by 150+ students. It started as a **first-place win at CoHack 2025**, a 27-hour hackathon, and is now a startup with a team of four.
+An AI academic calendar, live on the web, the App Store and Google Play, and used by 200+ students. It started as a **first-place win at CoHack 2025**, a 27-hour hackathon, and is now a startup with a team of four.
 
 - **Syllabus extraction pipeline** for PDF, DOCX, pasted text and exam-schedule tables, with prompt-hash caching
 - **Callie**, a course assistant built on RAG: pgvector search with keyword re-ranking, kept separate per course
@@ -87,7 +87,7 @@ An AI academic calendar, live on the web, the App Store and Google Play, and use
 | Role | Where | When |
 |---|---|---|
 | **Co-founder and CEO** | CalenDue | Sep 2025 – now |
-| **Software Engineering Intern** | GRANTED: AI blogging platform in Next.js, PostgreSQL and Prisma | Jun – Aug 2025 |
+| **Software Engineering Intern** | GRANTED: blogging platform for an AI grant-discovery startup, in Next.js, PostgreSQL and Prisma | Jun – Aug 2025 |
 | **Database Project Coordinator** | University of Oklahoma | Sep 2023 – May 2024 |
 | **Event Director** | Computer Science Student Society | 2025–26 |
 
